@@ -3,7 +3,6 @@
 
 - 🔭 I'm working with Cloud & DevOps Solutions at @Embraer.
 - 💬 Ask me about DevOps and IaC I'll be glad to help.
-- 😁 Fun fact: I'm Guitar player 🎸 and Graphic Designer enthusiastic 🎨.
 - 🌱 I’m currently learning more about Kubernetes
 
 <a href="https://github.com/AndreGuima/github-readme-stats">
